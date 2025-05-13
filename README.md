@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World!👋🏼<br> 💫 About Me:
 Google Summer of Code 2025<br>Contributor at Society for Arts and Technologies<br>Currently pursuing my Bachelor's<br>
 
 
