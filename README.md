@@ -1,5 +1,5 @@
-# Hello World!👋🏼<br> 💫 About Me:
-Google Summer of Code 2025<br>Contributor at Society for Arts and Technologies<br>Currently pursuing my Bachelor's<br>
+# Hello World!👋🏼<br> About Me:
+Google Summer of Code 2025<br>Contributor at Society for Arts and Technology (SAT)<br>I love theoretical Comp Sci along with programming and some electronics<br>
 
 
 ## 🌐 Socials:
