@@ -1,5 +1,5 @@
 # Hello World!👋🏼<br> About Me:
-Google Summer of Code 2025<br>Contributor at Society for Arts and Technology (SAT)<br>I love theoretical Comp Sci along with programming and some electronics<br>Currently exploring compilers<br>
+Google Summer of Code 2025 Contributor at Society for Arts and Technology (SAT)<br>I love theoretical Comp Sci along with programming and some electronics<br>Currently exploring compilers<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/-anmolkapil) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zepredos) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:z3predos@gmail.com) 
